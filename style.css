@@ -1,0 +1,90 @@
+body {
+  background-color: #f8f5ee; 
+    margin: 0;
+    padding: 0;
+}
+
+.top-header {
+  background-color: #d4c9bf;
+    padding: 30px;
+     text-align: center;
+}
+
+.dark-section {
+  background-color: #3e4a5c;
+  color: #fff; 
+}
+
+.title{
+    font-size: 120px;
+    color: #F8F5EE;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    margin-bottom: 0;
+}
+    
+.title2{
+    font-size: 100px;
+    color: black;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    margin-bottom: 0;
+}
+
+
+.subheader2{
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 60px;
+    color: black;
+    padding-bottom: 50px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    letter-spacing: 1.5px;
+}
+
+.subheader{
+    font-size: 40px;
+    margin-top: 0;
+    color: #F8F5EE;
+    padding-bottom: 150px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    letter-spacing: 1.5px;
+}
+img {
+  width: 1000px; 
+  height: 800px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-content {
+    margin-top: 30px;
+    background-color: #d4c9bf;
+    padding: 10px 50px 80px;
+    width: 1200px;
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+}
+.commentary{
+    font-size: 25px;
+    margin-top: 60px;
+    color: black;
+    padding-bottom: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    letter-spacing: 1.5px;
+}
+
