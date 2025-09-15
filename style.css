@@ -15,17 +15,15 @@ body {
   color: #fff; 
 }
 
-.title{
+.top-header__title{
     font-size: 120px;
     color: #F8F5EE;
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
     margin-bottom: 0;
 }
     
-.subheader2{
+.blogpost__title{
     text-decoration: underline;
     font-size: 40px;
     margin-top: 60px;
@@ -33,20 +31,16 @@ body {
     padding-bottom: 50px;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
     letter-spacing: 1.5px;
 }
 
-.subheader{
+.top-header__subheader{
     font-size: 40px;
     margin-top: 0;
     color: #F8F5EE;
     padding-bottom: 150px;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
     letter-spacing: 1.5px;
 }
 img {
@@ -56,8 +50,7 @@ img {
   margin-right: auto;
 }
 
-.main-content {
-    margin-top: 30px;
+.blog-post {
     background-color: #d4c9bf;
     padding: 10px 50px 80px;
     width: 1200px;
@@ -65,15 +58,13 @@ img {
     display: block;
     text-align: center;
 }
-.commentary{
+.blog-post__commentary{
     font-size: 25px;
     margin-top: 60px;
     color: black;
     padding-bottom: 20px;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
     letter-spacing: 1.5px;
 }
 
