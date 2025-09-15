@@ -1,15 +1,70 @@
 body {
-    background-color:peachpuff;
-    color: blue;
-    font: size 25px;
-}
-h1 {
-    color: black;
-    font-size: 50px;
+  background-color: #f8f5ee; 
+    margin: 0;
+    padding: 0;
 }
 
-.head {
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
+.top-header {
+  background-color: #d4c9bf;
+    padding: 30px;
+     text-align: center;
 }
+
+.dark-section {
+  background-color: #3e4a5c;
+  color: #fff; 
+}
+
+.top-header__title{
+    font-size: 120px;
+    color: #F8F5EE;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    margin-bottom: 0;
+}
+    
+.blogpost__title{
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 60px;
+    color: black;
+    padding-bottom: 50px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    letter-spacing: 1.5px;
+}
+
+.top-header__subheader{
+    font-size: 40px;
+    margin-top: 0;
+    color: #F8F5EE;
+    padding-bottom: 150px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    letter-spacing: 1.5px;
+}
+img {
+  width: 1000px; 
+  height: 800px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blog-post {
+    background-color: #d4c9bf;
+    padding: 10px 50px 80px;
+    width: 1200px;
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+}
+.blog-post__commentary{
+    font-size: 25px;
+    margin-top: 60px;
+    color: black;
+    padding-bottom: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    letter-spacing: 1.5px;
+}
+
