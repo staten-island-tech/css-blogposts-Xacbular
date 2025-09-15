@@ -25,17 +25,6 @@ body {
     margin-bottom: 0;
 }
     
-.title2{
-    font-size: 100px;
-    color: black;
-    font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-    margin-bottom: 0;
-}
-
-
 .subheader2{
     text-decoration: underline;
     font-size: 40px;
